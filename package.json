@@ -1,0 +1,23 @@
+{
+  "name": "offensive-words-filter",
+  "version": "1.0.0",
+  "description": "Detect offensive words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesobreira/offensive-words-filter.git"
+  },
+  "keywords": [
+    "bad",
+    "word"
+  ],
+  "author": "Jefrey S. Santos <jefrey.santos@capitual.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesobreira/offensive-words-filter/issues"
+  },
+  "homepage": "https://github.com/jesobreira/offensive-words-filter#readme"
+}
